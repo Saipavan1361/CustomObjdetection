@@ -1,4 +1,4 @@
-<b>Dataset file Structure</b>
+<h3>Dataset file Structure</h3>
 Here in data set folder we need further two directories as images and labels.
 
 Images containse two directories of train and val which is used to place training images and validation images respectively.
