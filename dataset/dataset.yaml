@@ -1,0 +1,11 @@
+path: C:\Users\saipa\Downloads\dataset
+train: C:\Users\saipa\Downloads\dataset\images\train
+val: C:\Users\saipa\Downloads\dataset\images\val
+
+names:
+  0: Mobile Phone
+  1: Earbuds
+  2: Book
+  3: Watch
+  4: Pencil
+  5: Power Bank
